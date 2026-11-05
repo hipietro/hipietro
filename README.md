@@ -88,11 +88,37 @@ I'm using EcoFleet to strengthen **React and Python**, while building toward a b
 
 These are learning goals, developed through practical work as each project needs them.
 
-## Certifications & languages
+## Certifications & continued learning
 
-- **[Programming for Everybody — University of Michigan / Coursera](https://www.coursera.org/account/accomplishments/verify/2UGUOZ0P5092)**
-- **Cisco CCNA**
-- **Cambridge English B2** · Native Italian
+| Credential | Issuer / platform | Earned |
+| --- | --- | --- |
+| **[GitHub Foundations](https://learn.microsoft.com/en-us/users/pietroacampora-0203/credentials/certification/github-foundations?tab=credentials-tab)** | GitHub / Microsoft Learn | October 2026 |
+| **[Foundational C# with Microsoft](https://freecodecamp.org/certification/fcc-ca9d1d56-e805-4dc4-bedc-17b9143c52ed/foundational-c-sharp-with-microsoft)** | freeCodeCamp, in collaboration with Microsoft | October 2026 |
+| **[Python for Everybody Specialization](https://coursera.org/verify/specialization/MNBK8HJEAZPI)** | University of Michigan / Coursera | August 2026 |
+
+<details>
+<summary><strong>Explore the five courses in Python for Everybody</strong></summary>
+
+Each course was completed as part of the specialization above:
+
+1. [Programming for Everybody (Getting Started with Python)](https://coursera.org/verify/2UGUOZ0P5092)
+2. [Python Data Structures](https://coursera.org/verify/87OKETXMR3C4)
+3. [Using Python to Access Web Data](https://coursera.org/verify/BMXMEMCFWV1Q)
+4. [Using Databases with Python](https://coursera.org/verify/0C3B8V76Z4P1)
+5. [Capstone: Retrieving, Processing, and Visualizing Data with Python](https://coursera.org/verify/416RHCBRLBIL)
+
+</details>
+
+### Additional course certificates
+
+| Course | Provider | Completed |
+| --- | --- | --- |
+| **GitHub Foundations** — 9-hour course | DataCamp | September 2026 |
+| **CCNAv7: Introduction to Networks** — course completion | Cisco Networking Academy | May 2024 |
+
+### Languages
+
+**Italian:** native · **English:** Cambridge English B2
 
 ---
 
