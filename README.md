@@ -1,129 +1,105 @@
 <div align="center">
 
-# Hi, I'm Pietro Acampora 👋
+![Pietro Acampora — Computer Science student and software developer](assets/profile-banner.svg)
 
-### Computer Science student · Software Developer
+I turn university foundations and practical problems into applications I can understand, test and improve.
 
-I build practical software with a focus on clean architecture, maintainability, automated testing and real-world use cases.
+**University of Padua · Udine / Padua, Italy**
 
-Based between **Udine and Padua, Italy** · Open to **internships, junior roles, relocation and remote opportunities**
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Let's_connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/pietro-acampora-79b146338/)
+[![Email](https://img.shields.io/badge/Email-Get_in_touch-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:pietrolacampora@gmail.com)
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Pietro%20Acampora-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/pietro-acampora-79b146338/)
-[![Email](https://img.shields.io/badge/Email-pietrolacampora%40gmail.com-EA4335?style=flat&logo=gmail&logoColor=white)](mailto:pietrolacampora@gmail.com)
-[![Coursera](https://img.shields.io/badge/Coursera-Python%20Certificate-0056D2?style=flat&logo=coursera&logoColor=white)](https://www.coursera.org/account/accomplishments/verify/2UGUOZ0P5092)
+Open to **internships and junior roles**, including remote work and relocation.
 
 </div>
 
----
+## A little about me
 
-## About me
+I'm a Computer Science student interested in the whole journey from a data model to a usable application. My projects span business tools, electric mobility, data validation and desktop software.
 
-- 🎓 Computer Science student at the **University of Padua**
-- 💻 Interested in full-stack development, backend engineering and software architecture
-- 🧪 I include automated tests and continuous integration whenever they add real value
-- 🏗️ I value SOLID principles, clear responsibilities and maintainable code
-- 🌱 Currently strengthening my skills in Python, TypeScript, C++ and software engineering
-- 🌍 Italian native speaker with certified B2 English
+I care about clear responsibilities, reliable data and understanding why the code works. I learn by building features step by step, documenting decisions and improving the structure as the project grows.
 
-## Tech stack
-
-### Languages
-
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
-![C++](https://img.shields.io/badge/C++-00599C?style=flat&logo=cplusplus&logoColor=white)
-![C](https://img.shields.io/badge/C-A8B9CC?style=flat&logo=c&logoColor=black)
-![SQL](https://img.shields.io/badge/SQL-4169E1?style=flat&logo=postgresql&logoColor=white)
-
-### Frameworks, databases and tools
-
-![React](https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=nodedotjs&logoColor=white)
-![Express](https://img.shields.io/badge/Express-000000?style=flat&logo=express&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=white)
-![SQLite](https://img.shields.io/badge/SQLite-003B57?style=flat&logo=sqlite&logoColor=white)
-![Prisma](https://img.shields.io/badge/Prisma-2D3748?style=flat&logo=prisma&logoColor=white)
-![Qt](https://img.shields.io/badge/Qt-41CD52?style=flat&logo=qt&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
-![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat&logo=githubactions&logoColor=white)
-![Arduino](https://img.shields.io/badge/Arduino-00878F?style=flat&logo=arduino&logoColor=white)
-
-## Featured projects
-
-### 🌿 [GreenWork Manager](https://github.com/hipietro/greenwork_manager)
-
-A deployed full-stack management application for small gardening businesses.
-
-`React` · `TypeScript` · `Node.js` · `Express` · `PostgreSQL` · `Prisma` · `JWT`
-
-- Manages jobs, employees, equipment and attendance
-- Includes authentication, protected API routes and production security utilities
-- Deployed with Render and Neon PostgreSQL
-
-**[Open the live application](https://greenwork-manager.onrender.com)**
-
----
-
-### ✅ [Order Integrity Checker](https://github.com/hipietro/order_integrity_checker)
-
-A Python application that validates, normalizes, imports and manages business orders.
-
-`Python` · `SQLite` · `CSV` · `Tkinter` · `unittest` · `GitHub Actions`
-
-- Detects invalid and duplicate orders before database import
-- Shares the same service layer between CLI and GUI
-- Includes automated tests and continuous integration
-
----
-
-### 📅 [Qt Agenda](https://github.com/hipietro/qt_agenda)
-
-A desktop agenda application developed in C++17 with Qt Widgets.
-
-`C++17` · `Qt 6` · `JSON` · `Object-Oriented Design`
-
-- Uses polymorphism for events, deadlines, reminders and checklists
-- Supports recurring activities, templates, filters and undo/redo
-- Separates the model, GUI, persistence and command layers
-
----
+## Selected work
 
 ### ⚡ [EcoFleet Solutions](https://github.com/hipietro/ecofleet-solutions-db)
 
-A relational database system for an electric mobility sharing platform.
+**From a university database project to a full-stack electric mobility application.**
 
-`PostgreSQL` · `SQL` · `C` · `libpq`
+`React` · `TypeScript` · `Python` · `FastAPI` · `PostgreSQL` · `psycopg`
 
-- Covers requirements analysis, ER modelling and logical design
-- Implements domains, constraints, triggers, stored functions and indexes
-- Includes complex analytical queries and a C client application
+- Relational modelling, constraints, triggers and stored functions form the foundation.
+- The backend handles authentication, rental workflows and vehicle-specific pricing with corporate discounts.
+- The React frontend currently includes login, rental history, available vehicles, brand filtering and vehicle details.
+- **In active development:** a practical setting for learning how frontend, API and database decisions fit together.
 
-## Other projects
+### 🌿 [GreenWork Manager](https://github.com/hipietro/greenwork_manager)
 
-- 🔍 **[TCP Port Scanner](https://github.com/hipietro/port_scanner)** — multithreaded C++17 TCP connect scanner using non-blocking POSIX sockets
-- 🏠 **[Home Sentinel](https://github.com/hipietro/home-sentinel)** — Arduino-based environmental monitoring and data-analysis system in development
+**A working management application for small gardening businesses.**
 
-## Certifications
+`React` · `TypeScript` · `Node.js` · `Express` · `PostgreSQL` · `Prisma`
 
-- 🐍 **[Programming for Everybody — University of Michigan, Coursera](https://www.coursera.org/account/accomplishments/verify/2UGUOZ0P5092)**
-- 🌐 **Cisco CCNA**
-- 🇬🇧 **Cambridge English B2**
+- Organizes jobs, employees, equipment and daily attendance.
+- Uses JWT authentication and server-enforced permissions, including a read-only demo account.
+- Deployed on Render with Neon PostgreSQL.
 
-## Current focus
+**[Explore the live demo →](https://greenwork-manager-pietro.onrender.com)**
 
-- Building production-oriented full-stack applications
-- Improving backend development with Python and TypeScript
-- Applying automated testing and CI workflows
-- Using SOLID principles and clear software architecture
-- Creating projects that solve concrete business and everyday problems
+### ✅ [Order Integrity Checker](https://github.com/hipietro/order_integrity_checker)
+
+**A Python application that checks business orders before they enter the database.**
+
+`Python` · `SQLite` · `FastAPI` · `Tkinter` · `GitHub Actions`
+
+- Normalizes CSV records, validates fields and detects exact or suspicious duplicates.
+- Imports batches atomically and maintains transactional audit history.
+- Shares application services across CLI, desktop GUI and REST API, with automated tests and CI.
+- **Feature-complete:** maintained as a portfolio project and reference implementation.
+
+### 📅 [Qt Agenda](https://github.com/hipietro/qt_agenda)
+
+**A desktop organizer built around object-oriented design.**
+
+`C++17` · `Qt 6` · `JSON` · `Automated testing`
+
+- Models events, deadlines, reminders and checklists through polymorphism.
+- Supports recurring activities, search, filtering, persistence and undo/redo.
+- Separates domain logic, interface, persistence and commands.
+
+## Tools I use in my projects
+
+| Area | Technologies |
+| --- | --- |
+| Frontend | React, TypeScript, JavaScript |
+| Backend | Python, FastAPI, Node.js, Express |
+| Data | PostgreSQL, SQLite, SQL, psycopg, Prisma |
+| Desktop & foundations | C++, Qt, C |
+| Development workflow | Git, GitHub Actions, automated testing |
+
+## What I'm learning next
+
+I'm using EcoFleet to strengthen **React and Python**, while building toward a broader understanding of data processing and application delivery.
+
+| Focus | Learning direction |
+| --- | --- |
+| Application development | React state, effects, routing and API integration; Python backend design |
+| Data processing | NumPy and pandas |
+| Containers & deployment | Docker, followed by Kubernetes |
+| Longer-term direction | Azure and AI engineering; studying toward AI-200 |
+
+These are learning goals, developed through practical work as each project needs them.
+
+## Certifications & languages
+
+- **[Programming for Everybody — University of Michigan / Coursera](https://www.coursera.org/account/accomplishments/verify/2UGUOZ0P5092)**
+- **Cisco CCNA**
+- **Cambridge English B2** · Native Italian
 
 ---
 
 <div align="center">
 
-### Let's connect
+**Have a role or a project where I could contribute and keep learning?**
 
-[LinkedIn](https://www.linkedin.com/in/pietro-acampora-79b146338/) · [Email](mailto:pietrolacampora@gmail.com) · [GitHub](https://github.com/hipietro)
+[Let's connect on LinkedIn](https://www.linkedin.com/in/pietro-acampora-79b146338/) · [Send me an email](mailto:pietrolacampora@gmail.com)
 
 </div>
